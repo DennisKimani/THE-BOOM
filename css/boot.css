@@ -1,0 +1,17 @@
+
+h1{color: purple;
+font-style: italic arial;
+}
+
+h2{color: white;font-style: italic arial;
+}
+
+body {
+  color:green;
+  font-style: tahoma;
+  text-align: center;
+  background-image: url(http://mutuamatheka.co.ke/wp-content/uploads/2012/04/001_NAIROBI_WEBREADY_MUTUA-MATHEKA-11.jpg);
+  background-size:1300px 1000px;
+}
+p{color:green;
+font-style: comic}
